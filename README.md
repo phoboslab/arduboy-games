@@ -9,7 +9,7 @@ Simple arcade game. Collect fuel, don't hit crates.
 
 - [Play in Emulator](https://felipemanga.github.io/ProjectABE/?hex=https://raw.githubusercontent.com/phoboslab/arduboy-games/master/hexs/crate-confusion.hex)
 - [Download .hex](https://felipemanga.github.io/ProjectABE/?hex=https://raw.githubusercontent.com/phoboslab/arduboy-games/master/hexs/crate-confusion.hex)
-- [Install on Arduboy](arduboy:https://raw.githubusercontent.com/phoboslab/arduboy-games/master/hexs/crate-confusion.hex)
+- Install on Arduboy: `arduboy:https://raw.githubusercontent.com/phoboslab/arduboy-games/master/hexs/crate-confusion.hex`
 
 
 ## License
